@@ -10,7 +10,7 @@
 	<Authors>Reda Essa, Mohammed Fares, Abdulaziz</Authors>
 	<Company>ARAMM Tech</Company>
 	<Description>
-		RepoSP.Net is a lightweight .NET library that simplifies data access by implementing repository patterns. It provides an easy-to-use framework for managing CRUD operations and integrating with various data sources, allowing developers to write cleaner and more maintainable code.
+		RepoSP.Net is a .NET library that streamlines the use of SQL Server stored procedures. It leverages the Repository Pattern to simplify data access, manage parameters efficiently, and handle CRUD operations seamlessly, enabling developers to write clean and maintainable code with minimal effort.
 	</Description>
 
 	<PackageLicenseExpression>MIT</PackageLicenseExpression>
